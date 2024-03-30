@@ -1,2 +1,2 @@
 # Todo-App
-Todo App creation with help of React.js
+Todo App creation with the help of React.js.
